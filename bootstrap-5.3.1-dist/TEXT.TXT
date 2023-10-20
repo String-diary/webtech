@@ -1,0 +1,23 @@
+AIM:
+
+To write a html program and create a table using Bootstrap CSS.
+
+ALGORITHM:
+Step 1: Start the process.
+Step 2:Create a html file to create college website using bootstrap concept.
+Step 3:Install Bootstrap locally or globally in your machine
+Step 4: Inside the head section use <meta> tag to set width and height, and 
+implement bootsrap concepts:css query,jquery,javascript file
+Step 5: Include image in header section using img src file
+Step 6: Crate navbar to display the options as (Home,About us, 
+Colleges,Institutions,Schools,Facilities,Gallery,Contact Us).
+Step 7: Create a table with table-bordered and table-hover having 3 columns 
+and 4 rows.
+Step 8:Create a dopdown list for “about us” option to display the list of 
+institutions.
+Step 9:Attach the image in the mid section of the page about the college.
+Step 10:Create a container “news and events” at the left side of the page and 
+add some description about the college
+Step 11:Attach a image in footer section andsave the program as bootstrap.html 
+and execute without any error.
+Step 12: Stop the process.
